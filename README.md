@@ -1,7 +1,7 @@
 # ICDAR 2023 Aligned Music and Lyrics Transcription
 ## _Music Generator_
 
-[![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)]() [![Version](https://img.shields.io/static/v1?label=Version&message=1.0&color=)]() [![Python](https://img.shields.io/static/v1?label=Python&message=3.7&color=blue)]()
+[![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)]() [![Version](https://img.shields.io/static/v1?label=Version&message=1.0&color=)]() [![Python](https://img.shields.io/static/v1?label=Python&message=3.8.10&color=blue)]()
 
 In this paper, we present the Aligned Music and Lyrics Transcription (AMLT) challenge, whose goal is to retrieve the content from document images of vocal music. This new research area arises from the need to automatically transcribe notes and lyrics from music scores and align both sources of information conveniently. Although existing methods are able to deal with music notation and text, they work without providing their proper alignment, which is crucial to actually retrieve the content of the piece of vocal music. To overcome this challenge, we consider holistic neural approaches that transcribe music and text in one step, along with an encoding that implicitly aligns the sources of information. The methodology is evaluated on a benchmark specifically designed for AMLT. The results report that existing methods can obtain high-quality text and music transcriptions, but posterior alignment errors are inevitably found. However, our formulation achieves relative improvements of over 80% in the metric that considers both transcription and alignment. We hope that this work will establish itself as a future reference for further research on AMLT.
 

@@ -1,0 +1,6 @@
+wonderwords==2.2.0
+pyphen==0.14.0
+verovio==3.14.0
+cairosvg==2.7.0
+wand==0.6.11
+googletrans==3.0.0

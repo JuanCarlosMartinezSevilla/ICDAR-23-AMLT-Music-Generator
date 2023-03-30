@@ -10,7 +10,7 @@ Using this repository you will be able to generate synthethic musical fragments.
 
 ![generated_krn](https://github.com/JuanCarlosMartinezSevilla/ICDAR-23-AMLT-Music-Generator/blob/main/examples/exampleCombined.png)
 
-_Resultant Krn file rendered with Verovio Humdrum Viewer_
+_Resultant .krn file rendered with Verovio Humdrum Viewer_
 
 ## Getting Started
 Clone the repository:
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Citation
 ```bibtex
-@inproceedings{Coquenet2021,
+@inproceedings{,
     author    = {},
         title     = {},
         booktitle = {17th International Conference on Document Analysis and Recognition,

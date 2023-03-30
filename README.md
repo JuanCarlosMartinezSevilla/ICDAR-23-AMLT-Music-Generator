@@ -7,7 +7,10 @@ In this paper, we present the Aligned Music and Lyrics Transcription (AMLT) chal
 
 ## Usage
 Using this repository you will be able to generate synthethic musical fragments.
-_<imagen>_
+
+![generated_krn](https://github.com/JuanCarlosMartinezSevilla/ICDAR-23-AMLT-Music-Generator/blob/main/examples/exampleCombined.png)
+
+_Resultant Krn file rendered with Verovio Humdrum Viewer_
 
 ## Getting Started
 Clone the repository:

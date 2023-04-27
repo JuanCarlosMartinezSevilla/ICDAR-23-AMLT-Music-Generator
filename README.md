@@ -16,13 +16,20 @@ _Resultant .krn file rendered with Verovio Humdrum Viewer_
 Clone the repository:
 
 ```
-git clone xxx
+git clone https://github.com/JuanCarlosMartinezSevilla/ICDAR-23-AMNLT-Music-Generator.git
 ```
 
 Install the dependencies:
 
 ```
 pip install -r requirements.txt
+```
+
+
+Check the launch.sh file to see call example to generate new scores:
+
+```
+launch.sh
 ```
 
 ## License

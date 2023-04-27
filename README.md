@@ -25,21 +25,6 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 
-## Citation
-```bibtex
-@inproceedings{,
-    author    = {},
-        title     = {},
-        booktitle = {17th International Conference on Document Analysis and Recognition,
-            {ICDAR}},
-            series    = {},
-            volume    = {},
-            pages     = {},
-            year      = {2023},
-            doi       = {},
-        }
-```
-
 ## License
 
 The MIT License (MIT)
